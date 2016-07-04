@@ -24,7 +24,7 @@
 					Visit-Neringa.com
 				</h1>
 				<h3 class="mg-md  text-center sm-shadow push-bottom-percents-5 hidden-xs">
-					Vasarnamių nuoma
+					Vacation rentals site
 				</h3>
 				<div class="hidden-md hidden-xs hidden-sm">
 					<?php
@@ -34,7 +34,7 @@
 			</div>
 			<div class="col-md-12 col-lg-7">
 <!--				<div class="bg" data-ibg-bg="img/neringa_macbook_home_green.jpg"></div>-->
-				<img src="img/neringa_macbook_home_green.jpg" class=" center-block img-responsive floating-top-down  " />
+				<img src="img/neringa_macbook_home_green.jpg" class=" center-block img-responsive floating-top-down" alt="Vacation rentals site Design" />
 			</div>
 		</div>
 	</div>
@@ -56,14 +56,14 @@
 	<div class="container box-lg">
 		<div class="row">
 			<div class="col-sm-6">
-				<img src="img/neringa_3x_ipads.jpg" class="floating-top-down center-block img-responsive  " />
+				<img src="img/neringa_3x_ipads.jpg" class="floating-top-down center-block img-responsive  " alt="Powerful Design" />
 			</div>
 			<div class="col-sm-6">
                 <h2 class="mg-md  text-center push-top-percents-15">
-                    Veržlus ir Paprastas
+					Powerful Design
                 </h2>
                 <h3 class="mg-md  text-center">
-                    Sukurtas išskirtinis Dizainas.<br />
+					Grow your idea with our Team
                 </h3>
 			</div>
 		</div>
@@ -76,12 +76,12 @@
 	<div class="container box-lg">
 		<div class="row">
             <h2 class="mg-md  text-center push-top-percents-8">
-                Veržlus ir Paprastas
+				Powerful Design
             </h2>
             <h3 class="mg-md  text-center">
-                Sukurtas išskirtinis Dizainas.<br />
+				Grow your idea with our Team
             </h3>
-			<img src="img/neringa_3x_ipads.jpg" class="img-responsive floating-top-down push-top-percents-10" />
+			<img src="img/neringa_3x_ipads.jpg" class="img-responsive floating-top-down push-top-percents-10" alt="Powerful Design"/>
 		</div>
 	</div>
 </div>
@@ -94,11 +94,11 @@
 		<div class="row">
 			<div class="col-sm-12">
 				<h2 class=" mg-lg text-center">
-					Prisitaikantis
+					Responsive Design
 				</h2>
 				<h3 class="text-center  mg-lg push-bottom-percents-3">
-					Unikalus ir pritaikytas prie įvairių įrenginių dizainas <br/> - leis tapti pasiekiamiems visur ir visiems
-				</h3><img src="img/neringa_responce.jpg" class="img-responsive center-block push-bottom-percents-5     " />
+					Mobile website setup for smartphone and tablet capability.
+				</h3><img src="img/neringa_responce.jpg" class="img-responsive center-block push-bottom-percents-5     " alt="Responsive Design" />
 			</div>
 		</div>
 	</div>
@@ -113,10 +113,10 @@
 		<div class="row">
 			<div class="col-sm-12">
 				<h2 class=" text-center sm-shadow mg-lg">
-					Brangiausiam Turtui – Geriausi Sprendimai
+					Top Solutions for your bussines
 				</h2>
 				<h3 class="text-center  mg-lg  push-bottom-percents-3">
-					Profesionalus dizainas turi tik svarbiausius elementus, kurie neblaško lankytojo.<br />Origanalus ir skoningas stilius. Klientai laimingi jūsų išvaizda internete, laimingi žmonės perka daugiau.
+					Our goal is to design a website that fits perfectly with your wishes and ideas.
 				</h3>
 				<?php
 					include 'button-contact.php';
@@ -134,7 +134,7 @@
 		<div class="row">
 			<div class="col-sm-12">
 				<h2 class="mg-md  sm-shadow ">
-					Integruoti Artimiausi Orai
+					Integrated Upcoming Weather
 				</h2>
 			</div>
 		</div>
@@ -150,8 +150,8 @@
 		<div class="row">
 			<div class="col-sm-12">
 				<h2 class=" text-center mg-lg">
-					Navigacija
-				</h2><img src="img/neringa_menu_.jpg" class="img-responsive center-block  push-top-percents-5" />
+					Navigation menu
+				</h2><img src="img/neringa_menu_en.jpg" class="img-responsive center-block  push-top-percents-5" />
 			</div>
 		</div>
 	</div>
@@ -180,11 +180,11 @@
 			<div class="row">
 				<div class="col-sm-12">
 					<h2 class="mg-md  text-center push-top-percents-25">
-						Žemėlapis.<br/>
-						Daugiakalbystė
+						Maps.<br/>
+						Multi-language
 					</h2>
 					<h3 class="mg-md  text-center ">
-						Integruotas Google Žemėlapis su kontaktiniais duomenimis
+						Integrated Google Map with contact data
 					</h3>
 				</div>
 			</div>
@@ -201,11 +201,11 @@
 			<div class="row">
 				<div class="col-sm-12">
 					<h2 class="mg-md  text-center push-top-percents-25">
-						Žemėlapis.<br/>
-						Daugiakalbystė
+						Maps.<br/>
+						Multi-language
 					</h2>
 					<h3 class="mg-md  text-center ">
-						Integruotas Google Žemėlapis su kontaktiniais duomenimis
+						Integrated Google Map with contact data
 					</h3>
 				</div>
 			</div>
@@ -234,10 +234,10 @@
 		<div class="row">
 			<div class="col-sm-12">
 				<h2 class="text-center sm-shadow mg-lg">
-					Fotografijos
+					Professional photography
 				</h2>
 				<h3 class="text-center  sm-shadow mg-lg">
-					Atliekamos aukštos kokybės fotografijos
+					High-quality images
 				</h3>
 				<?php
 					include 'button-contact.php';
@@ -283,11 +283,11 @@
 		<div class="row">
 			<div class="col-sm-12">
 				<h2 class="mg-md text-center sm-shadow drag-obj tc-white">
-					Susisiekite Su Mumis
+					Contact Us
 				</h2>
 
 				<?php
-					include 'button-contact-colorfull.html';
+					include 'button-contact-colorfull.php';
 				?>
 			</div>
 		</div>

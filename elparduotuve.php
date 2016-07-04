@@ -20,13 +20,14 @@
 		<div class="row">
 			<div class="col-md-12 col-lg-7">
 				<h1 class=" mg-lg sm-shadow text-center text-white">
-					El. Parduotuvė
+					Online store
 				</h1>
 				<img src="img/kaledos_macbook_home_yallow3.jpg" class=" center-block  width-percents-82 img-responsive fadeInLeft animDelay02  animated" />
 			</div>
 			<div class="col-md-12 col-lg-5 push-top-percents-10  hidden-xs hidden-sm hidden-md  ">
 				<img   src="img/kaledos_iphone_yallow2.jpg"   class="floating-top-down   balloon-action iphone-kymsurgery  "
-					   data-toggle="tooltip" data-placement="top" data-original-title="Spustelk mane ir aš pajudėsiu" />
+					   alt="online store Design"
+					   data-toggle="tooltip" data-placement="top" data-original-title="Click me and I will start move" />
 			</div>
 		</div>
 	</div>
@@ -53,16 +54,16 @@
 		<div class="container box-xxl">
 			<div class="row push-percents-lft-5 push-percents-rgt-5">
 					<h2 class=" text-center mg-lg tc-outer-space">
-						Pasiekiamumas
+						Accessibility
 					</h2>
 					<h3 class="text-center  mg-lg tc-outer-space ">
-						Sukurtas minimalistinis ir patogus Dizainas.<br />Tinklapis lengvai prisitaiko prie įvairių įrenginių
+						Increase sales of your Online store and build a great online Brand
 					</h3>
 
 					<?php
-						include 'button-contact-black-frame.html';
+						include 'button-contact-black-frame.php';
 					?>
-					<img src="img/kaledos_responsive_3.jpg" class="center-block img-responsive push-top-percents-10 width-percents-82" />
+					<img src="img/kaledos_responsive_3.jpg" class="center-block img-responsive push-top-percents-10 width-percents-82"  alt="Accessibility Design" />
 
 			</div>
 		</div>
@@ -91,13 +92,10 @@
 			<div class="col-sm-12">
 				<h2 class="text-center  mg-lg">
 					A sleek, professional online store that's easy to navigate & converts sales
-
-					Komplektuojamos Prekės
 				</h2>
 				<h3 class=" text-center mg-lg push-bottom-percents-5">
-					 Galimybė padidinti pardavimus suteikiant<br />vartotojui teisę rinktis priedus
 				</h3>
-				<img src="img/kaledos_eff_4x_iphones_2.jpg" class="img-responsive center-block" />
+				<img src="img/kaledos_eff_4x_iphones_2.jpg" class="img-responsive center-block" alt="professional online store Design"  />
 			</div>
 		</div>
 	</div>
@@ -110,10 +108,10 @@
 		<div class="row">
 			<div class="col-sm-12">
 				<h2 class=" mg-lg text-center">
-					Paprastumas Versle
+					LET US TAKE CARE OF YOUR WEBSITE
 				</h2>
 				<h3 class="text-center  mg-lg ">
-					Lengva ir patogu apsipirkti.
+					Everything You Need to be Successful Online.
 				</h3>
 
 				<?php
@@ -132,10 +130,10 @@
 		<div class="row">
 			<div class="col-sm-12">
 				<h2 class=" text-center mg-lg">
-					Pagalbinė Informacija
+					Supporting Information
 				</h2>
 				<h3 class=" text-center mg-lg">
-					Iliustruotas pirkimo procesas<br />
+					Illustrated purchase process<br />
 				</h3>
 				<img src="img/kaledos_macbook__2.jpg" class="floating-top-down img-responsive center-block push-top-percents-8" />
 			</div>

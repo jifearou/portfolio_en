@@ -29,12 +29,12 @@ $alerts = array();
 
 if (empty($email)) {
     $valid = false;
-    $alerts[] = 'Neįvestas el. paštas.';
+    $alerts[] = 'Please insert a valid email address!';
 }
 
 if (empty($message)) {
     $valid = false;
-    $alerts[] = 'Neįvestas klausimas.';
+    $alerts[] = 'Please insert a message!';
 }
 
 if ($valid) {
@@ -44,10 +44,10 @@ if ($valid) {
     $text = "El. paštas: $email\r\nVardas: $name\r\nTelefonas: $phone\r\nKlausimas:\r\n$message";
     if (mail($primary_email, "digital.work klausimas", $text, $headers)) {
         $success = true;
-        $alerts[] = 'Dėkojame už klausimą. Greitai su Jumis susisieksime.';
+        $alerts[] = 'Thank you for the question. We will contact you soon.';
     } else {
         $success = false;
-        $alerts[] = "Nepavyko išsiųsti Jūsų klausimo. Susisiekite su mumis el. paštu <a href='mailto:$primary_email'>$primary_email</a>.";
+        $alerts[] = "Unable to send your question. Please contact us by email <a href='mailto:$primary_email'>$primary_email</a>.";
     }
 }
 

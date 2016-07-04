@@ -20,10 +20,10 @@
 		<div class="row">
 			<div class="col-md-12 col-lg-7">
 				<h1 class=" mg-md sm-shadow text-center  ">
-					Dizainas
+
 				</h1>
 				<h3 class="mg-md  text-center sm-shadow   push-bottom-percents-3">
-					Kvietimas į Vestuves
+
 				</h3>
 				<img src="img/vestuves_macbook_home_flat.jpg" class="img-responsive center-block fadeInLeft animDelay02 animated" />
 			</div>
@@ -54,10 +54,9 @@
 		<div class="row">
 			<div class="col-sm-12">
 				<h2 class=" mg-lg text-center">
-					Paprastumas
-				</h2>
+					Simplicity				</h2>
 				<h3 class="text-center  mg-lg">
-					Lengva ir patogu naudoti
+					Easy and comfortable to use
 				</h3>
 				<img src="img/vestuves_iphone.jpg" class="floating-top-down img-responsive center-block push-top-percents-5" />
 			</div>
@@ -72,7 +71,7 @@
 		<div class="row">
 			<div class="col-sm-12">
 				<h2 class="text-center  tc-outer-space mg-lg push-bottom-percents-5">
-					Prisitaikantis Dizainas
+					Mobile-friendly Design
 				</h2><img src="img/vestuveseff_2.jpg" class="img-responsive center-block" />
 			</div>
 		</div>
@@ -86,7 +85,7 @@
 		<div class="row">
 			<div class="col-sm-12">
 				<h2 class="text-center  mg-lg push-bottom-percents-5">
-					Registracija
+					Registration Form
 				</h2>
 				<h3 class=" text-center mg-lg">
 				</h3><img src="img/vestuves_macbook_contact_flat.jpg" class="img-responsive center-block" />
@@ -101,15 +100,16 @@
 	<div class="container box-xl">
 		<div class="row">
 			<div class="col-sm-12">
-				<h2 class=" mg-lg text-center tc-outer-space">
-					Jūsų nėra internete – Jūsų nėra niekur!
+				<h2 class=" mg-lg text-center tc-outer-space"> Your Website is Waiting
 				</h2>
 				<h3 class="text-center  mg-lg tc-outer-space">
-					Virš 70 % Lietuvos gyventojų kasdien naudojasi internetu. Tapkite matomi.
+					Whether you need a professional-looking website to promote your business,
+					a slick place to share your portfolio or an online home for your passion project,
+					our experts will make you a customised site based on your requirements and tailored to your brand and messaging.
 				</h3>
 
 				<?php
-				include 'button-contact-black-frame.html';
+				include 'button-contact-black-frame.php';
 				?>
 
 			</div>

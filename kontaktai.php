@@ -41,17 +41,31 @@
 				<h1 class=" text-center  text-black sm-shadow mg-lg push-bottom-percents-3">
 					<?php echo CONTACT; ?>
 				</h1>
+
 				<h3 class="mg-md text-center ">
-					Working hours: from 09.00 to 18.00<br />
-                    Phone: <a href="tel:<?php echo PHONE_NO_SPACES; ?>" ><?php echo PHONE_SHOW; ?></a><br />
-                    Email: <a href="mailto:<?php echo EMAIL; ?>"><?php echo EMAIL; ?></a><br/>
-                    KAUNAS
+					<div itemscope itemtype="http://matomi.lt">
+						Working hours: <span itemprop="Working"> from 09.00 to 18.00</span><br/>
+						Phone: <a itemprop="tel" href="tel:<?php echo PHONE_NO_SPACES_UK; ?>" ><?php echo PHONE_SHOW_UK; ?></a><br/>
+						Email: <a itemprop="email" href="mailto:<?php echo EMAIL; ?>"><?php echo EMAIL; ?></a><br/>
+						<span itemprop="city">Nottingham, United Kingdom</span>
+					</div>
 				</h3>
-                <div class="push-top-percents-3">
-                    <?php
-                        include 'button-contact.php';
-                    ?>
-                </div>
+
+				<div class="push-top-percents-3">
+					<?php
+					include 'button-contact.php';
+					?>
+				</div>
+
+				<h3 class="mg-md text-center push-top-percents-3">
+					<div itemscope itemtype="http://matomi.lt">
+						Working hours: <span itemprop="Working"> from 09.00 to 18.00</span><br/>
+						Phone: <a itemprop="tel" href="tel:<?php echo PHONE_NO_SPACES; ?>" ><?php echo PHONE_SHOW; ?></a><br/>
+						Email: <a itemprop="email" href="mailto:<?php echo EMAIL; ?>"><?php echo EMAIL; ?></a><br/>
+						<span itemprop="city">Kaunas, Lithuania</span>
+					</div>
+				</h3>
+
 			</div>
 		</div>
 	</div>

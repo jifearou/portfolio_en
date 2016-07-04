@@ -23,7 +23,7 @@
 					Coilovers.lt
 				</h1>
 				<h3 class="mg-md  text-center sm-shadow push-bottom-percents-5">
-					El. Parduotuvė
+					Shock absorbers online store
 				</h3>
 				<div class="hidden-xs hidden-sm">
 					<?php
@@ -32,7 +32,7 @@
 				</div>
 			</div>
 			<div class="col-sm-7">
-				<img src="img/coilover_macbook_desktop4_grey.jpg" class="img-responsive  floating-top-down" />
+				<img src="img/coilover_macbook_desktop4_grey.jpg" class="img-responsive  floating-top-down"  alt="Shock absorbers online store Design" />
 			</div>
 		</div>
 	</div>
@@ -61,13 +61,13 @@
 		<div class="row">
 			<div class="col-sm-12">
 				<h2 class="text-center  mg-lg">
-					Prisitaikantis Dizainas
+					Responsive Design
 				</h2>
 				<h3 class="text-center  mg-lg push-bottom-percents-5">
-					Tinklapis lengvai prisitaiko prie įvairių įrenginių
+					Mobile website setup for smartphone and tablet capability.
 				</h3>
 
-				<img src="img/coilover_responsive_.jpg" class="img-responsive center-block" />
+				<img src="img/coilover_responsive_.jpg" class="img-responsive center-block" alt="Responsive Design" />
 
 			</div>
 		</div>
@@ -81,10 +81,10 @@
 		<div class="row">
 			<div class="col-sm-5 push-top-percents-5">
 				<h2 class=" text-center mg-lg tc-outer-space">
-					Lengva Naudotis
+					Simple Design
 				</h2>
 				<h3 class="text-center  mg-lg tc-outer-space">
-					Paprastas Dizainas.<br />
+					Everything You Need to be Successful Online.<br />
 				</h3>
 			</div>
 			<div class="col-sm-7">
@@ -103,11 +103,11 @@
 	<div class="row">
 		<div class="col-sm-12">
 			<h2 class=" text-left sm-text-center tc-outer-space sm-shadow mg-lg">
-				Verslas Delne
+				Your business in your hands
 			</h2>
 			<div class="pull-left sm-pull-none">
 				<?php
-				include 'button-contact-black-frame.html';
+				include 'button-contact-black-frame.php';
 				?>
 			</div>
 		</div>
@@ -118,11 +118,11 @@
 		<div class="row ">
 			<div class="col-sm-12 ">
 				<h2 class=" text-left push-percents-lft-5  tc-outer-space sm-shadow mg-lg hidden-xs hidden-sm">
-					Verslas Delne
+					Your business <br/> In your hands
 				</h2>
 				<div class="pull-left  push-percents-lft-5 hidden-xs hidden-sm">
 					<?php
-						include 'button-contact-black-frame.html';
+						include 'button-contact-black-frame.php';
 					?>
 				</div>
 			</div>
@@ -139,10 +139,10 @@
 		<div class="row">
 			<div class="col-sm-12 ">
 				<h2 class=" mg-lg text-center">
-					Paprasta Pirkti
+					Simple online shopping
 				</h2>
 				<h3 class="text-center  mg-lg push-bottom-percents-10">
-					Jūsų sėkmė - mūsų sėkmė
+					Your Success is Our Success
 				</h3> <img src="img/coilover_eff_iphones_3x_2.jpg" class="img-responsive center-block" />
 			</div>
 		</div>
@@ -156,10 +156,11 @@
 		<div class="row">
 			<div class="col-sm-12">
 				<h2 class=" text-center sm-shadow mg-lg">
-					Kokybė
+					Quality
 				</h2>
 				<h3 class="text-center mg-lg push-bottom-percents-5 ">
-					Aukštos kokybės Nuotraukos.<br />Greitas puslapio krovimas.
+					High-quality photos
+					<br />Fast page loading
 				</h3>
 				<img src="img/coilover_macbook_desktop2_grey.jpg" class="floating-top-down img-responsive center-block" />
 
@@ -180,10 +181,10 @@
 		<div class="row">
 			<div class="col-sm-12">
 				<h2 class=" mg-lg text-left">
-					Prisitaikymas prie kliento poreikių
+					All-Inclusive Solution
 				</h2>
 				<h3 class=" mg-lg text-left">
-					Virš 70 % Lietuvos gyventojų kasdien naudojasi internetu. <br/> Tapkite matomi.
+					Everything your site needs is included - from a domain name and customisable emails to professional images and sharp-looking visuals.
 				</h3>
 
 				<div class="pull-left">

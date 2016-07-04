@@ -20,7 +20,7 @@
 		<div class="row">
 			<div class="col-md-12 col-lg-5 push-top-percents-5 push-bottom-percents-5">
 				<h1 class="mg-md  text-center tc-white sm-shadow ">
-					Dizainas
+					Personal website design <br/> - about traveling
 				</h1>
 			</div>
 			<div class="col-md-12 col-lg-7">
@@ -47,10 +47,10 @@
 		<div class="row">
 			<div class="col-sm-12">
 				<h2 class=" mg-lg text-center">
-					Vieno Puslapio dizainas
+					Mobile-friendly one page Design
 				</h2>
 				<h3 class="text-center  mg-lg">
-					Visa informacija pasiekiama viename puslapyje.
+					All content on landing page.
 				</h3>
 				<img src="img/kalnai_eff_mobile_3x_white.jpg" class="img-responsive center-block push-top-percents-10" />
 			</div>
@@ -77,10 +77,10 @@
 	<div class="container box-xxl">
 		<div class="row push-percents-lft-5 push-percents-rgt-5">
 			<h2 class="text-center  mg-lg">
-				Prisitaikantis Dizainas
+				Responsive Design
 			</h2>
 			<h3 class="text-center  mg-lg">
-				Puslapis lengvai prisitaiko prie įvairių įrenginių
+				Your site is built mobile-ready, with a customised design that looks great on any device.<br />
 			</h3>
 
 			<?php
@@ -100,11 +100,8 @@
 		<div class="row">
 			<div class="col-sm-12 ">
 				<h2 class=" mg-lg text-center sm-shadow  text-white">
-					Jūsų nėra internete – Jūsų nėra niekur!
+					Find the right solution for your business
 				</h2>
-				<h3 class="text-center  mg-lg text-white">
-					Profesionalus dizainas turi tik svarbiausius elementus, kurie neblaško lankytojo.
-				</h3>
 				<?php
 					include 'button-contact.php';
 				?>

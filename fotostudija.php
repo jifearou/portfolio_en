@@ -21,7 +21,7 @@
 		<div class="row">
 			<div class="col-md-12 col-lg-5">
 				<h1 class="mg-md  text-center  tc-white sm-shadow push-bottom-percents-5 push-top-percents-15 push-top-0-md push-top-0-sm push-top-0-xs  ">
-					Fotostudijos Dizainas
+					Photography website design
 				</h1>
 				<div class="hidden-xs hidden-sm hidden-md">
 					<?php
@@ -55,11 +55,11 @@
 		<div class="row">
 			<div class="col-sm-12">
 				<h2 class="text-center mg-lg ">
-					Prisitaikantis Dizainas
+					Mobile-friendly Design
 				</h2>
 				<h3 class="text-center mg-lg push-bottom-percents-5">
-					Poreikiai išgirsti
-				</h3><img src="img/fotostudija_iphone_lt2.jpg" class="floating-top-down img-responsive center-block" />
+					Connect with Your Audience
+				</h3><img src="img/fotostudija_iphone_eng.jpg" class="floating-top-down img-responsive center-block" />
 			</div>
 		</div>
 	</div>
@@ -75,7 +75,7 @@
 		<div class="row">
 			<div class="col-sm-12">
 				<h2 class="text-center  mg-lg  push-bottom-percents-5 ">
-					Gyvas ir Įdomus<br />Pateikimas
+					A complete set of advanced design features make sure your site stands out.
 				</h2>
 				<img src="img/fotostud_eff_ipads_2x_white.jpg" class="img-responsive center-block" />
 			</div>
@@ -91,12 +91,10 @@
 		<div class="row">
 			<div class="col-sm-12">
 				<h2 class=" mg-lg text-center text-white push-bottom-percents-10">
-					Interaktyvi Galerija
+					Interactive Gallery
 				</h2>
 				<h3 class="text-center  mg-lg">
 				</h3>
-
-				<!--				<img src="img/_eff_macBook_3.jpg" class="img-responsive center-block" />-->
 			</div>
 		</div>
 	</div>
@@ -108,7 +106,7 @@
 		<div class="row">
 			<div class="col-sm-12">
 				<h2 class=" mg-lg text-center   push-bottom-percents-10">
-					Interaktyvi Galerija
+					Interactive Gallery
 				</h2>
 
 				 <img src="img/fotostudija_eff_macbook_3.jpg"  class="img-responsive center-block" />
@@ -126,12 +124,12 @@
 		<div class="row">
 			<div class="col-sm-12">
 				<h2 class="text-center mg-lg ">
-					Darbų Aptarimas
+					Work Discussion
 				</h2>
 				<h3 class="mg-md text-center push-bottom-percents-5">
-					 Įvertinkite ir dalinkitės įspūdžiais
+					Rate and share experience
 				</h3>
-				<img src="img/fotostudija_blog.jpg" class="img-responsive center-block" />
+				<img src="img/fotostudija_blog_eng.jpg" class="img-responsive center-block" />
 			</div>
 		</div>
 	</div>
@@ -144,10 +142,9 @@
 		<div class="row">
 			<div class="col-sm-12">
 				<h2 class=" mg-lg text-center text-white">
-					Interneto Svetainė - tai jūsų atvaizdas internete
+					Upload your quality content, while we are taking care of all the rest.
 				</h2>
 				<h3 class="text-center  mg-lg text-white">
-					Virš 70 % Lietuvos gyventojų kasdien naudojasi internetu. Tapkite matomi.
 				</h3>
 
 				<?php

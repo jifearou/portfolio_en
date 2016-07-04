@@ -58,7 +58,7 @@ h4 {
 	 line-height: 44px;
  }
 p {  font-size: 22px;  }
-
+.text-italic { font-style: italic;}
 .navbar-brand .logo {
 	padding-right: 10px;
 	margin-top: -7px;
@@ -73,6 +73,9 @@ p {  font-size: 22px;  }
 	top: 250px;
 	background: rgba(0, 0, 0, 0.15) none repeat scroll 0 0!important;
  }
+.static-top-button-rgt:hover {
+	background: rgba(0, 0, 0, 0.25) none repeat scroll 0 0!important;
+}
 .static-top-button-lft {
 	position: fixed;
 	z-index: 999999;
@@ -878,9 +881,6 @@ iframe{
 .bg--eff-macbook-home-flat {
 	background-image:url("img/kym_eff_macbook_home_flat.jpg");
 }
-.bg--eff-background-1-3xscreens{
-	background-image:url("img/_eff_background_1_+3xscreens.jpg");
-}
 .bg--eff-table3{
 	background-image:url("img/_eff_table3.jpg");
 }
@@ -956,9 +956,6 @@ iframe{
 }
 .bg--eff-table3{
 	background-image:url("img/_eff_table3.jpg");
-}
-.bg--eff-background-1-3xscreens{
-	background-image:url("img/_eff_background_1_+3xscreens.jpg");
 }
 .bg--eff-macbook-home-flat {
 	background-image:url("img/kym_eff_macbook_home_flat.jpg");
@@ -1456,6 +1453,8 @@ iframe{
 			padding-left: 85px;
 		}
 	/* end izraeliokosmetika */
+
+	#services #services_questions h3 { margin-top: 45px;  }
 	#services.d-box .icon-round { display: none; }
 	#services .d-box .icon-round { display: none; }
 	#services h3,

@@ -24,13 +24,14 @@
 					IzraelioKosmetika.lt
 				</h1>
 				<h3 class="mg-md  text-center sm-shadow  ">
-					El. Parduotuvė
+					Israeli cosmetics online store
 				</h3>
 				<img src="img/izrael_header_macbook_flat-1400x-brown.jpg" class="img-responsive center-block fadeInLeft   animated" />
 			</div>
 			<div class="col-md-12 col-lg-5 push-top-percents-10 hidden-xs hidden-sm hidden-md">
 				<img src="img/izrael_iphone_home_brown2.jpg"    class=" floating-top-down  balloon-action iphone-kymsurgery  "
-					 data-toggle="tooltip" data-placement="top" data-original-title="Spustelk mane ir aš pajudėsiu" />
+					 alt="cosmetics online store Design"
+					 data-toggle="tooltip" data-placement="top" data-original-title="Click me and I will start move" />
 			</div>
 		</div>
 	</div>
@@ -53,23 +54,22 @@
 
 
 <!-- box-54 -->
-<div class="box bgc-white push-top-percents-5" id="box-54">
+<div class="box  l-box bgc-white push-top-percents-5" id="box-54">
 	<div class="container box-xl">
 		<div class="row">
 			<div class="col-sm-12">
 				<h2 class=" text-center mg-lg tc-outer-space">
-					Prisitaikantis Dizainas
+					Responsive Design
 				</h2>
 				<h3 class="text-center  mg-lg tc-outer-space">
-					Unikalus ir prisitaikantis prie įvairių įrenginių dizainas
-					<br/> - leis tapti pasiekiamiems visur ir visiems
+					Your site is built mobile-ready, with a customised design that looks great on any device.
 				</h3>
 
 				<?php
 					include 'button-contact.php';
 				?>
 
-				<img src="img/izrael_responsive_2800x.jpg" class="img-responsive center-block width-percents-82  push-top-percents-10" />
+				<img src="img/izrael_responsive_2800x.jpg" class="img-responsive center-block width-percents-82  push-top-percents-10"  alt="Responsive Design" />
 
 			</div>
 		</div>
@@ -102,9 +102,9 @@
 		<div class="row">
 			<div class="col-sm-12">
 				<h2 class=" text-center mg-lg push-bottom-percents-5">
-					Interaktyvus Meniu
+					Interactive Menu
 				</h2>
-				<img src="img/izrael_menu_interactive_white2.jpg" class="img-responsive center-block" />
+				<img src="img/izrael_menu_interactive_eng.jpg" class="img-responsive center-block" alt="Interactive Menu Design" />
 			</div>
 		</div>
 	</div>
@@ -118,7 +118,7 @@
 		<div class="row">
 			<div class="col-sm-12">
 				<h2 class="mg-md  tc-white text-center sm-shadow push-bottom-percents-5">
-					Rezultatai visada pasiekiami per išsikeltus terminus
+					We will create a Unique Website and you can Sell Your Products Online
 				</h2>
 					<?php
 						include 'button-contact.php';
@@ -127,7 +127,7 @@
 				<div class="push-bottom-percents-5">
 				</div>
 				<div class="col-sm-12" style="position: absolute; z-index: 9999999;">
-					<img src="img/izrael_iphone_result_flat.png"   class="moving-iphone fadeInUp animDelay04 center-block animated" />
+					<img src="img/izrael_iphone_result_flat.png"   class="moving-iphone fadeInUp animDelay04 center-block animated"  alt="Products Online Design" />
 				</div>
 			</div>
 		</div>
@@ -146,10 +146,10 @@
 		<div class="row">
 			<div class="col-sm-12">
 				<h2 class=" mg-lg text-center">
-					Išsiskiriantis
+					Outstanding
 				</h2>
 				<h3 class="text-center  mg-sm  ">
-					Sukurtas minimalistinis ir patogus Dizainas.<br />
+					A minimalist and comfortable design.
 				</h3>
 				<img src="img/izrael_eff_ipads_2x_white.jpg" class="center-block img-responsive floating-top-down  " />
 			</div>
@@ -198,10 +198,10 @@
 		<div class="row">
 			<div class="col-sm-12  ">
 				<h2 class=" text-center mg-lg">
-					Paprastumas
+					Selling online has never been easier!
 				</h2>
 				<h3 class="text-center  mg-lg">
-					Išsirenki prekę ir spaudi Pirkti.<br />  Jokios perteklinės informacijos.
+					Simple, flexible solution for selling online<br />  Merchandising, offers and promotions
 				</h3>
 				<img src="img/izrael_eff_iphones_3x_details_2.jpg" class=" push-top-percents-10 width-percents-82 img-responsive center-block push-percents-lft-5" />
 			</div>
@@ -220,11 +220,11 @@
 		<div class="row">
 			<div class="col-md-12 col-lg-6 push-top-percents-15">
 				<h2 class="text-center  mg-lg">
-					Kontaktų Puslapis
+					Contact page
 				</h2>
 				<h3 class="mg-md text-center push-bottom-percents-10">
-					Išskirtinis Google žemėlapio dizainas.
-					<br />Parduotuvių kontaktai ir užklausos forma - viskas vienoje vietoje.
+					Exclusive Google map design.
+					<br />Store contact information and request form - everything in one place.
 				</h3>
 			</div>
 			<div class="col-md-12 col-lg-6">
@@ -241,11 +241,12 @@
 		<div class="row">
 			<div class="col-sm-12">
 				<h2 class=" mg-lg text-center sm-shadow">
-					Tikslas ir atsakomybė
+					Your Website is Waiting,
+					It's Time to Launch
 				</h2>
 
 				<h3 class=" mg-lg text-center">
-					Darbas laikomas atliktas tik tada, kai klientai šypsosi pamatę rezultatą
+					Everything You Need to be Successful Online.
 				</h3>
 
 				<?php

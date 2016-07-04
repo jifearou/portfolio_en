@@ -7,7 +7,7 @@ $(document).ready(function() {
         var request_alerts = $('#request_alerts');
 
         request_submit_button.prop('disabled', true);
-        request_alerts.html('<div class="alert alert-info"><i class="fa fa-spinner fa-spin"></i> Siunčiama.</div>').fadeIn();
+        request_alerts.html('<div class="alert alert-info"><i class="fa fa-spinner fa-spin"></i> Sending...</div>').fadeIn();
 
         $.post(request_form.attr('action'), request_form.serialize(), null, 'json')
             .done(function(response) {

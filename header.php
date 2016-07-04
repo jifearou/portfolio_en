@@ -2,15 +2,11 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Professional Design – Website Development</title>
-    <meta name="keywords" content="Website builder, cms, online shop development, create online shop, eshop, website development, cheap website, website design, online shop, eshop design, site design, responsive web design, logo, Create website, own website, website builder, website, quality website     ">
-   <meta name="description" content="A digital agency focused on creating custom websites & digital design to grow brands online.   High-quality Website & online shop development, online shop design, website design, responsive web design, logo design">
+    <title>Custom Design – Website Development</title>
+    <meta name="description" content="Europe based web design and development firm that specializes on creating result-driven custom websites to grow brands online that deliver ROI.
+      High-quality Website & online store development, website design, online stores, responsive web design, logo">
 
 
-<!--    A digital agency focused on creating custom websites & digital design to grow brands online.-->
-<!--    Want high-quality website? Easy as pie! Awesome designs & features for personal and commercial use. Start NOW!-->
-<!--    Experts in website development for global clients. We can help your website represent your services & professionalism to your audience.-->
-<!--    Europe based web design and development firm that specializes in result-driven custom websites that deliver ROI.-->
     <link rel="shortcut icon" type="image/png" href="img/servises_icons/favicon114.png" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
@@ -25,25 +21,24 @@
     <link rel='stylesheet' href='./css/font-awesome.min.css'/><link rel='stylesheet' href='./css/ionicons.min.css'/>
 
 
-<!--    High-quality  Website Design & development Company -->
-<!--    Custom Design Company – Website Development-->
 
     <?php
         // logo text
-        define("LOGO_TEXT",     "Microsony.eu");
+        define("LOGO_TEXT",     "Upsony");
         // menu
         define("HOME",     "Home");
-        define("WORKS",    "Works");
+        define("WORKS",    "Work");
         define("SERVICES", "Services");
         define("CONTACT",     "Contacts");
         // contacs
-        define("EMAIL",    "info@matomi.lt");
+        define("EMAIL",    "info@upsony.com");
         define("PHONE_SHOW", "+ 370 630 52960");
         define("PHONE_NO_SPACES", "+37063052960");
+        define("PHONE_SHOW_UK", "+44 7711 781778");
+        define("PHONE_NO_SPACES_UK", "+447711781778");
+        define("PHONE_NO_SPACES_UK_HOME", "+441163184143");
         // button
         define("QUESTIONS",     "Contact us");
-
-
 
 
     //    include_once("fb-pixel.php") ;
@@ -77,16 +72,16 @@
                 <div class="collapse navbar-collapse navbar-1">
                     <ul class="site-navigation nav navbar-nav">
                         <li>
-                            <a class="text-center" id="pl-432" href="index.php">Home</a>
+                            <a class="text-center" id="pl-432" href="index.php"><?php echo HOME; ?></a>
                         </li>
                         <li>
-                            <a class="text-center" href="works.php">Works</a>
+                            <a class="text-center" href="works.php"><?php echo WORKS; ?></a>
                         </li>
                         <li>
-                            <a class="text-center" href="paslaugos.php">Services</a>
+                            <a class="text-center" href="paslaugos.php"><?php echo SERVICES; ?></a>
                         </li>
                         <li>
-                            <a class="text-center"  href="kontaktai.php">Contact</a>
+                            <a class="text-center"  href="kontaktai.php"><?php echo CONTACT; ?></a>
                         </li>
                     </ul>
                 </div>

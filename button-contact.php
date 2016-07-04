@@ -4,5 +4,6 @@
 <!--</div>-->
 
 <div  class="text-center">
-    <button type="button" class="btn btn-sq btn-wire btn-xl" data-toggle="modal" data-target="#requestModal"><span class="ion ion-android-send icon-spacer"></span><?php echo QUESTIONS; ?></button>
+    <button type="button" class="btn btn-sq btn-wire btn-xl" data-toggle="modal" data-target="#requestModal">
+        <span class="ion ion-android-send icon-spacer"></span><?php echo QUESTIONS; ?></button>
 </div>

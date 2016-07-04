@@ -22,19 +22,20 @@
 <!--			<div class="col-sm-5 col-sm-4 col-sm-53 col-sm-5452 col-sm-54535451 col-sm-5453545254535450"> -->
 			<div class="col-sm-3  hidden-md hidden-sm hidden-xs push-top-percents-8 ">
 				<img src="img/kym-iphone_home_contacts-3-flat.png"   class="floating-top-down balloon-action pull-right iphone-kymsurgery"
-					 style="z-index: 99999999!important; position:absolute;"
-					 data-toggle="tooltip" data-placement="top" data-original-title="Spustelk mane ir aš pajudėsiu" />
+					 style="z-index: 99999999!important; position:absolute;"   alt="Surgery clinic mobile Design"
+					 data-toggle="tooltip" data-placement="top" data-original-title="Click me and I will start move" />
 <!--				class="pull-right fadeInLeft animDelay04 animated" />-->
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-6 push-bottom-percents-3 push-top-percents-3">
 				<h1 class="text-center  mg-lg sm-shadow">
-					Chirurgijos Klinika
+					Surgery clinic in Singapore
 				</h1>
 				<img src="img/kym_macbook-falt+stomath2.jpg" class="img-responsive center-block" style="z-index: 1;" />
 			</div>
 			<div class="col-sm-3 push-top-percents-8  hidden-md hidden-sm hidden-xs">
 				<img src="img/kym_iphone-home-1-flat.png"  class="floating-top-down balloon-action iphone-kymsurgery"  style="z-index: 99999999!important; position:absolute;"
-					 data-toggle="tooltip" data-placement="top" data-original-title="Spustelk mane ir aš pajudėsiu" />
+					 alt="Surgery clinic in Singapore Design"
+					 data-toggle="tooltip" data-placement="top" data-original-title="Click me and I will start move" />
 <!--					 class="fadeInRight animDelay1 animated" />-->
 			</div>
 		</div>
@@ -46,20 +47,38 @@
 	include('row-atlikome-kymsurgery.html');
 ?>
 
+
+
 <!-- box-11 -->
-<div class="box l-box bgc-white push-top-percents-10"  id="box-11">
+<div class="box l-box bgc-white push-top-percents-5"  id=" ">
 	<div class="container box-lg">
 		<div class="row">
 			<div class="col-sm-12">
 				<h2 class="text-center  mg-lg ">
-					Sukurta Interaktyvi Vartotojo Sąsaja
+					Client
 				</h2>
-				<h3 class="text-center  mg-lg  ">
-					Užvedus pelę ant organų, kuriems paslaugos teikia įmonė - organai užsidega
+				<h3 class="text-center  mg-lg push-bottom-percents-3  ">
+					"I have to say that I'm really impressed by the web design. <br/> It's exactly how I kind of envisaged it but you've made it even better."
 				</h3>
 				<?php
-				include 'button-contact.php';
+					include 'button-contact-gold.php';
 				?>
+			</div>
+		</div>
+	</div>
+</div>
+
+	<!-- box-11 -->
+<div class="box l-box bgc-white push-top-percents-5"  id="box-11">
+	<div class="container box-lg">
+		<div class="row">
+			<div class="col-sm-12">
+				<h2 class="text-center  mg-lg ">
+					Created interactive User Interface (UI)
+				</h2>
+				<h3 class="text-center  mg-lg  ">
+					Move the mouse over the body
+				</h3>
 			</div>
 		</div>
 	</div>
@@ -112,12 +131,12 @@
 		<div class="row">
 			<div class="col-sm-12">
 				<h2 class=" text-center sm-shadow mg-lg">
-					Unikalūs Paveikslėliai
+					Unique Images
 				</h2>
 				<h3 class="text-center  mg-lg push-bottom-percents-5">
-					Projekte panaudoti išskirtinai jam sukurti paveikslėliai
+					The project used exclusively images
 				</h3>
-				<img src="img/kym_icons2-grey.png" width="1200" class="img-responsive center-block fadeInUp animDelay08 animated" />
+				<img src="img/kym_icons2-grey.png" width="1200" class="img-responsive center-block fadeInUp animDelay08 animated"  alt="Unique Images Design" />
 			</div>
 		</div>
 	</div>
@@ -133,12 +152,10 @@
 			</div>
 			<div class="col-sm-6 push-top-percents-8">
 				<h2 class=" mg-lg text-center">
-					Prisitaikantis Dizainas
+					Responsive Design
 				</h2>
 				<h3 class=" text-center mg-lg">
-					Tinkantis telefonams, plančiatėms,
-					<br/> nešiojamiems ir asmeniniams kompiuteriams
-
+					Mobile website setup for smartphone and tablet capability.
 				</h3>
 				<?php
 				include 'button-contact.php';
@@ -154,15 +171,13 @@
 		<div class="row animDelay02">
 			<div class=" push-top-percents-8">
 				<h2 class=" mg-lg text-center">
-					Prisitaikantis Dizainas
+					Responsive Design
 				</h2>
-				<h3 class=" text-center mg-lg">
-					Tinkantis telefonams, plančiatėms,
-					<br/> nešiojamiems ir asmeniniams kompiuteriams
+				<h3 class=" text-center mg-lg">Mobile website setup for smartphone and tablet capability.
 
 				</h3>
 
-				<img src="img/kym_3-white-2200x1570.jpg" class="center-block img-responsive  push-top-percents-10 width-percents-82 fadeInLeft animDelay02 animated" />
+				<img src="img/kym_3-white-2200x1570.jpg" class="center-block img-responsive  push-top-percents-10 width-percents-82 fadeInLeft animDelay02 animated"  alt="Responsive Design" />
 			</div>
 		</div>
 	</div>
@@ -187,10 +202,10 @@
 		<div class="row">
 			<div class="col-sm-12">
 				<h2 class=" text-center mg-lg push-bottom-percents-15">
-					Tablet Dizainas
+					Tablet Design
 				</h2>
 				<h3 class=" text-center mg-xl">
-				</h3><img src="img/kym_ipad_home_kymsurgery_shadow2_lt.jpg" class="img-responsive center-block mg-sm " />
+				</h3><img src="img/kym_ipad_eff_eng.jpg" class="img-responsive center-block mg-sm "  alt="Responsive Design" />
 			</div>
 		</div>
 	</div>
@@ -203,10 +218,10 @@
 		<div class="row">
 			<div class="col-sm-6">
 				<h2 class="mg-lg  text-center push-top-percents-20">
-					Patogūs Kontaktai
+					Comfortable Contacts
 				</h2>
 				<h3 class=" text-center mg-lg">
-					Aiški kontaktų struktūra <br/> ir interaktyvusis Google žemėlapis
+					Clear contact structure <br/> and interactive Google Map
 
 				</h3>
 				<?php
@@ -227,7 +242,7 @@
 		<div class="row">
 			<div class="col-sm-12">
 				<h2 class="mg-lg text-center  tc-outer-space push-bottom-percents-5">
-					Apie Informacija
+					About Information
 				</h2><img src="img/kym_eff_2.jpg" class="img-responsive center-block mg-lg" />
 			</div>
 		</div>
@@ -241,7 +256,7 @@
 		<div class="row">
 			<div class="col-sm-12">
 				<h2 class=" text-center sm-shadow mg-lg">
-					Brangiausiam Turtui – Geriausi Sprendimai
+					Tell your story with a beautiful website, online store or blog.
 				</h2>
 				<?php
 				include 'button-contact.php';
