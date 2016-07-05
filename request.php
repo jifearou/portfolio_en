@@ -13,8 +13,8 @@ error_reporting(E_ERROR);
 
 include 'functions.php';
 
-//$primary_email = "info@matomi.lt";
-$primary_email = EMAIL;
+$primary_email = "info@upsony.com";
+//$stringg_email = Constants::EMAIL;
 
 //data_log($_POST);
 
@@ -42,7 +42,7 @@ if ($valid) {
         "Reply-To: $email\r\n" .
         "X-Mailer: PHP/" . phpversion();
     $text = "El. paštas: $email\r\nVardas: $name\r\nTelefonas: $phone\r\nKlausimas:\r\n$message";
-    if (mail($primary_email, "digital.work klausimas", $text, $headers)) {
+    if (mail($primary_email, "Question for Upsony", $text, $headers)) {
         $success = true;
         $alerts[] = 'Thank you for the question. We will contact you soon.';
     } else {

@@ -40,8 +40,12 @@
         // button
         define("QUESTIONS",     "Contact us");
 
+    define("TRACKINGID", "UA-80316999-1");
+    define("TRACKINGFACEBOOK", "858388497599496");
 
-    //    include_once("fb-pixel.php") ;
+
+
+        include_once("fb-pixel.php") ;
 
     ?>
 </head>
@@ -50,7 +54,7 @@
 <body>
 
 <?php
-    //include_once("analyticstracking.php");
+    include_once("analyticstracking.php");
 ?>
 
 <!-- Main container -->

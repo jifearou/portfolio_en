@@ -5,7 +5,7 @@
         m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
     })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-    ga('create', 'UA-78690036-1', 'auto');
+    ga('create', '<?PHP echo TRACKINGID; ?>', 'auto');
     ga('send', 'pageview');
     ga('set', 'userId', 78690036); // Set the user ID using signed-in user_id.
 

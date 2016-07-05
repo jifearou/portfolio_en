@@ -21,7 +21,7 @@ $(document).ready(function() {
             })
             .fail(function() {
                 //console.log('fail');
-                request_alerts.html('<div class="alert alert-danger"><i class="fa fa-exclamation-circle" aria-hidden="true"></i> Jūsų užklausos išsiųsti nepavyko. Bandykite dar kartą.</div>').fadeIn();
+                request_alerts.html('<div class="alert alert-danger"><i class="fa fa-exclamation-circle" aria-hidden="true"></i>Unable to send your question. Please fill all fields and try again.</div>').fadeIn();
                 request_submit_button.prop('disabled', false);
             })
             .always(function() {
