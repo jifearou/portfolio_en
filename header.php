@@ -24,16 +24,16 @@
 
     <?php
         // logo text
-        define("LOGO_TEXT",     "Upsony");
+        define("LOGO_TEXT",     "Ulu");
         // menu
         define("HOME",     "Home");
         define("WORKS",    "Work");
         define("SERVICES", "Services");
         define("CONTACT",     "Contacts");
         // contacs
-        define("EMAIL",    "info@upsony.com");
-        define("PHONE_SHOW", "+ 370 630 52960");
-        define("PHONE_NO_SPACES", "+37063052960");
+        define("EMAIL",    "info@ulu.lt");
+        define("PHONE_SHOW", "+ 370 630 84239");
+        define("PHONE_NO_SPACES", "+37063084239");
         define("PHONE_SHOW_UK", "+44 7711 781778");
         define("PHONE_NO_SPACES_UK", "+447711781778");
         define("PHONE_NO_SPACES_UK_HOME", "+441163184143");

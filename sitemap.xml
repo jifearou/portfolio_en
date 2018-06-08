@@ -6,72 +6,72 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
     <url>
-      <loc>http://upsony.com/</loc>
+      <loc>http://ulu.lt/</loc>
       <changefreq>monthly</changefreq>
       <priority>1.00</priority>
     </url>
     <url>
-      <loc>http://upsony.com/index.php</loc>
+      <loc>http://ulu.lt/index.php</loc>
       <changefreq>monthly</changefreq>
       <priority>0.90</priority>
     </url>
     <url>
-      <loc>http://upsony.com/works.php</loc>
+      <loc>http://ulu.lt/works.php</loc>
       <changefreq>monthly</changefreq>
       <priority>0.85</priority>
     </url>
     <url>
-      <loc>http://upsony.com/paslaugos.php</loc>
+      <loc>http://ulu.lt/paslaugos.php</loc>
       <changefreq>monthly</changefreq>
       <priority>0.90</priority>
     </url>
     <url>
-      <loc>http://upsony.com/kontaktai.php</loc>
+      <loc>http://ulu.lt/kontaktai.php</loc>
       <changefreq>monthly</changefreq>
       <priority>0.90</priority>
     </url>
     <url>
-      <loc>http://upsony.com/guliveriokeliones.php</loc>
+      <loc>http://ulu.lt/guliveriokeliones.php</loc>
       <changefreq>monthly</changefreq>
       <priority>0.80</priority>
     </url>
     <url>
-      <loc>http://upsony.com/izraeliokosmetika.php</loc>
+      <loc>http://ulu.lt/izraeliokosmetika.php</loc>
       <changefreq>monthly</changefreq>
       <priority>0.80</priority>
     </url>
     <url>
-      <loc>http://upsony.com/visit-neringa.php</loc>
+      <loc>http://ulu.lt/visit-neringa.php</loc>
       <changefreq>monthly</changefreq>
       <priority>0.80</priority>
     </url>
     <url>
-      <loc>http://upsony.com/kymsurgery.php</loc>
+      <loc>http://ulu.lt/kymsurgery.php</loc>
       <changefreq>monthly</changefreq>
       <priority>0.80</priority>
     </url>
     <url>
-      <loc>http://upsony.com/coilover.php</loc>
+      <loc>http://ulu.lt/coilover.php</loc>
       <changefreq>monthly</changefreq>
       <priority>0.64</priority>
     </url>
     <url>
-      <loc>http://upsony.com/elparduotuve.php</loc>
+      <loc>http://ulu.lt/elparduotuve.php</loc>
       <changefreq>monthly</changefreq>
       <priority>0.64</priority>
     </url>
     <url>
-      <loc>http://upsony.com/kalnai.php</loc>
+      <loc>http://ulu.lt/kalnai.php</loc>
       <changefreq>monthly</changefreq>
       <priority>0.64</priority>
     </url>
     <url>
-      <loc>http://upsony.com/fotostudija.php</loc>
+      <loc>http://ulu.lt/fotostudija.php</loc>
       <changefreq>monthly</changefreq>
       <priority>0.64</priority>
     </url>
     <url>
-      <loc>http://upsony.com/vestuviuregistracija.php</loc>
+      <loc>http://ulu.lt/vestuviuregistracija.php</loc>
       <changefreq>monthly</changefreq>
       <priority>0.64</priority>
     </url>

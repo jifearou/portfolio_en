@@ -42,29 +42,31 @@
 					<?php echo CONTACT; ?>
 				</h1>
 
-				<h3 class="mg-md text-center ">
+<!-- 				<h3 class="mg-md text-center ">
 					<div itemscope itemtype="http://matomi.lt">
 						Working hours: <span itemprop="Working"> from 09.00 to 18.00</span><br/>
-						Phone: <a itemprop="tel" href="tel:<?php echo PHONE_NO_SPACES_UK; ?>" ><?php echo PHONE_SHOW_UK; ?></a><br/>
-						Email: <a itemprop="email" href="mailto:<?php echo EMAIL; ?>"><?php echo EMAIL; ?></a><br/>
+						Phone: <a itemprop="tel" href="tel:<?php //echo PHONE_NO_SPACES_UK; ?>" ><?php //echo PHONE_SHOW_UK; ?></a><br/>
+						Email: <a itemprop="email" href="mailto:<?php //echo EMAIL; ?>"><?php //echo EMAIL; ?></a><br/>
 						<span itemprop="city">Nottingham, United Kingdom</span>
 					</div>
-				</h3>
+				</h3> -->
 
-				<div class="push-top-percents-3">
-					<?php
-					include 'button-contact.php';
-					?>
-				</div>
+
 
 				<h3 class="mg-md text-center push-top-percents-3">
 					<div itemscope itemtype="http://matomi.lt">
 						Working hours: <span itemprop="Working"> from 09.00 to 18.00</span><br/>
 						Phone: <a itemprop="tel" href="tel:<?php echo PHONE_NO_SPACES; ?>" ><?php echo PHONE_SHOW; ?></a><br/>
 						Email: <a itemprop="email" href="mailto:<?php echo EMAIL; ?>"><?php echo EMAIL; ?></a><br/>
-						<span itemprop="city">Kaunas, Lithuania</span>
+						<!-- <span itemprop="city">Kaunas, Lithuania</span> -->
 					</div>
 				</h3>
+
+				 <div class="push-top-percents-3">
+					<?php
+					include 'button-contact.php';
+					?>
+				</div>
 
 			</div>
 		</div>

@@ -91,27 +91,31 @@
                         <form id="request_form" method="POST" action="request.php">
                             <div class="form-group">
                                 <label for="recipient-email" class="control-label"><strong>Your email:</strong></label>
-                                <input type="email" class="form-control" id="recipient-email" name="email" required>
+                                    <!--  pattern  is email not a  .ru                                 -->
+                                <input type="email" class="form-control" id="recipient-email" name="email" required    pattern="[a-z0-9._%+-]+@[a-z0-9.-]+[^(.ru)|^(.RU)$]"  title="Email can't  be registered in Russia  (eg.: xxx@xxx.ru). Sorry, we get a lot of spam from Russia"   autocomplete="on">
+                                <!-- title="Email can't  be registered in Russia  (eg.: xxx@xxx.ru). Sorry, we get a lot of spam from Russia" -->
                             </div>
                             <div class="form-group">
                                 <label for="recipient-name" class="control-label">Your name:</label>
-                                <input type="text" class="form-control" id="recipient-name" name="name">
+                                <input type="text" class="form-control" id="recipient-name" name="name"  autocomplete="on">
                             </div>
                             <div class="form-group">
                                 <label for="recipient-phone" class="control-label">Your Phone:</label>
-                                <input type="text" class="form-control" id="recipient-phone" name="phone">
+                                <input type="text" class="form-control" id="recipient-phone" name="phone"   autocomplete="on">
                             </div>
                             <div class="form-group">
                                 <label for="message-text" class="control-label"><strong>Message:</strong></label>
-                                <textarea class="form-control" id="message-text" name="message" rows="4" required></textarea>
+                                <textarea class="form-control" id="message-text" name="message" rows="4" required    autocomplete="on"></textarea>
                             </div>
+
                         </form>
                     </div>
-                    <div class="modal-footer">
-                        <div id="request_alerts" class="text-left"></div>
-                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                        <button id="request_submit_button" type="button" class="btn btn-primary"><strong>Send message</strong></button>
-                    </div>
+                            <!-- buttons -->
+                            <div class="modal-footer">
+                                <div id="request_alerts" class="text-left"></div>
+                                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                <button id="request_submit_button" type="button" class="btn btn-primary"><strong>Send message</strong></button>
+                            </div>
                 </div>
             </div>
         </div>
@@ -121,8 +125,8 @@
 
     <!-- JS-->
         <script src="./js/jqfloat/jqfloat.min.js"></script>
-        <!--<script src="./js/custom.min.js"></script>-->
-        <script src="./js/custom.min.js"></script>
+        <script src="./js/custom.js"></script>
+        <!-- <script src="./js/custom.min.js"></script> -->
 
         <!-- services page text effects -->
         <!--<link rel="stylesheet" type="text/css" href="text-effect.css">-->
